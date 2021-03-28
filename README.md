@@ -14,4 +14,9 @@ Traffic real-time information (e.g. Traffic light)
 
 Human activities are infulenced by weather, environmental change.
 
-[1][Daily Evapotranspiration](https://www.europeandataportal.eu/data/datasets/eo-eum-dat-msg-dmet?locale=en)
+[Daily Evapotranspiration](https://www.europeandataportal.eu/data/datasets/eo-eum-dat-msg-dmet?locale=en)
+
+[Fire Risk Map](https://www.europeandataportal.eu/data/datasets/eo-eum-dat-msg-frm?locale=en)
+
+[Digital map of European ecological regions](https://www.europeandataportal.eu/data/datasets/dat-60-en?locale=en)
+
