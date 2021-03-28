@@ -19,6 +19,19 @@ Road map, facility services.
 [Motorways network by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/zaennsgej2a50vd60j6ksw?locale=en)
 
 
+## Human grid data
+
+building volume data
+population map data
+[GHS built-up grid, derived from Sentinel-1 (2016), R2018A](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-10008?locale=en)
+
+[GHS population grid, derived from EUROSTAT census data (2011) and ESM R2016](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-ghs_pop_eurostat_europe_r2016a?locale=en)
+
+[Basic European Assets Map, Finland (2014-04-22)](https://www.europeandataportal.eu/data/datasets/b7914f88-caea-4240-8c6d-afe994ed3960?locale=en)
+
+
+
+
 ## Dynamic map
 
 Traffic real-time information (e.g. Traffic light)
@@ -26,6 +39,17 @@ Traffic real-time information (e.g. Traffic light)
 
 
 ## Traval data
+
+[Country level - passengers (excluding cruise passengers) transported to/from main ports](https://www.europeandataportal.eu/data/datasets/2ptr6nrumf9vituwpwjybw?locale=en)
+
+[Country level - passengers (excluding cruise passengers) transported to/from main ports, by type of traffic](https://www.europeandataportal.eu/data/datasets/bvnhrbc1h3oi53rsxrsa?locale=en)
+
+[Country level - passengers embarked and disembarked in all ports, by direction]
+(https://www.europeandataportal.eu/data/datasets/kmnbxvrpnnyrrqz2youuq?locale=en)
+
+
+
+[Arrivals of residents/non-residents at tourist accommodation establishments](https://www.europeandataportal.eu/data/datasets/dkvefoy4vfts8fta4q4siw?locale=en)
 
 [Country level - passengers embarked and disembarked in all ports](https://www.europeandataportal.eu/data/datasets/5dhgr1kcneqbymgqsstx1q?locale=en)
 
@@ -87,6 +111,11 @@ Human activities are infulenced by weather, environmental change.
 Causes of Death data refer to the underlying cause which - according to the World Health Organisation (WHO) - is the disease or injury which initiated the train of morbid events leading directly to death, or the circumstances of the accident or violence which produced the fatal injury". Death due to accidents refer to all kind of accident (transport, drowning, fire, ...).
 
 [People killed in road accidents (source: DG MOVE)](https://www.europeandataportal.eu/data/datasets/s4z4ugx7aq2hyedwyp2ena?locale=en)
+
+[Rail accidents victims by type of accident (ERA data)](https://www.europeandataportal.eu/data/datasets/9ny3msxopxtzmq0pguxza?locale=en)
+
+[Rail accidents by type of accident (ERA data)](https://www.europeandataportal.eu/data/datasets/jesbcyv48exerk5s4pn7a?locale=en)
+
 
 
 
