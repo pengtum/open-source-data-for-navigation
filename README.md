@@ -25,6 +25,12 @@ Traffic real-time information (e.g. Traffic light)
 
 [Passenger railway vehicles, by type of vehicle](https://www.europeandataportal.eu/data/datasets/vwwua5hdbsr7vja18tp0rg?locale=en)
 
+[passengers by speed of train](https://www.europeandataportal.eu/data/datasets/l9vs2oynpmwq2nnsh9liq?locale=en)
+
+[Railway transport - national and international railway passengers transport by loading/unloading NUTS 2 region](https://www.europeandataportal.eu/data/datasets/muem5q3ewmqnundrm2dya?locale=en)
+
+
+[Capacity of passenger railway vehicles, by type of vehicle/ category of seats or berths](https://www.europeandataportal.eu/data/datasets/ly8ntw4ryj7kk60jiinbtq?locale=en)
 
 
 
