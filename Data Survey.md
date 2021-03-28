@@ -29,7 +29,7 @@ Traffic real-time information (e.g. Traffic light)
 
 [Country level - passengers embarked and disembarked in all ports](https://www.europeandataportal.eu/data/datasets/5dhgr1kcneqbymgqsstx1q?locale=en)
 
-[Road, rail and navigable inland waterways networks by NUTS 2 regions] (https://www.europeandataportal.eu/data/datasets/b2fx8tdo8ace905seggrdg?locale=en)
+[Road, rail and navigable inland waterways networks by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/b2fx8tdo8ace905seggrdg?locale=en)
 
 [Annual road freight transport]()
 
