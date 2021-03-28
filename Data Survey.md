@@ -8,7 +8,7 @@
 
 Road map, facility services.
 
-[Road network(OpenSteetMap)](https://www.openstreetmap.org/)
+[Road network (OpenSteetMap)](https://www.openstreetmap.org/)
 
 [Road transport performance at 1 km² grid level](https://www.europeandataportal.eu/data/datasets/road-transport-performance-at-1-km-grid-level?locale=en)
 
@@ -22,7 +22,7 @@ Road map, facility services.
 ## Dynamic map
 
 Traffic real-time information (e.g. Traffic light)
-[]
+
 
 
 ## Traval data
@@ -50,7 +50,7 @@ Traffic real-time information (e.g. Traffic light)
 [Passengers transported to/from main ports]
 
 
-## Environmetal map
+## Environmental map
 
 Human activities are infulenced by weather, environmental change.
 
