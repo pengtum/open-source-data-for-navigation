@@ -14,6 +14,7 @@ Road map, facility services.
 
 [Basic European Assets Map, Germany (2014-04-22)](https://www.europeandataportal.eu/data/datasets/882d04dd-a354-4f97-8e3f-9320797434a2?locale=en)
 
+[Motorways network by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/zaennsgej2a50vd60j6ksw?locale=en)
 
 
 ## Dynamic map
@@ -23,6 +24,9 @@ Traffic real-time information (e.g. Traffic light)
 
 
 ## Traval data
+
+[Country level - passengers embarked and disembarked in all ports](https://www.europeandataportal.eu/data/datasets/5dhgr1kcneqbymgqsstx1q?locale=en)
+
 
 [Passenger railway vehicles, by type of vehicle](https://www.europeandataportal.eu/data/datasets/vwwua5hdbsr7vja18tp0rg?locale=en)
 
@@ -37,7 +41,7 @@ Traffic real-time information (e.g. Traffic light)
 
 [Capacity of passenger railway vehicles, by type of vehicle/ category of seats or berths](https://www.europeandataportal.eu/data/datasets/ly8ntw4ryj7kk60jiinbtq?locale=en)
 
-
+[Passengers transported to/from main ports]
 
 
 ## Environmetal map
@@ -45,7 +49,6 @@ Traffic real-time information (e.g. Traffic light)
 Human activities are infulenced by weather, environmental change.
 
 [Daily Evapotranspiration](https://www.europeandataportal.eu/data/datasets/eo-eum-dat-msg-dmet?locale=en)
-
 
 [Digital map of European ecological regions](https://www.europeandataportal.eu/data/datasets/dat-60-en?locale=en)
 
@@ -75,9 +78,9 @@ Human activities are infulenced by weather, environmental change.
 ## Accident
 [Death due to accidents by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/iwy1tuf7qryz1ieplhmmq?locale=en)
 
-
 Causes of Death data refer to the underlying cause which - according to the World Health Organisation (WHO) - is the disease or injury which initiated the train of morbid events leading directly to death, or the circumstances of the accident or violence which produced the fatal injury". Death due to accidents refer to all kind of accident (transport, drowning, fire, ...).
 
 [People killed in road accidents (source: DG MOVE)](https://www.europeandataportal.eu/data/datasets/s4z4ugx7aq2hyedwyp2ena?locale=en)
+
 
 
