@@ -9,7 +9,12 @@
 Road map, facility services.
 
 [Road transport performance at 1 km² grid level](https://www.europeandataportal.eu/data/datasets/road-transport-performance-at-1-km-grid-level?locale=en)
+
 [Cross-border road transport infrastructure in the European Union](https://www.europeandataportal.eu/data/datasets/jrc-tem-br1?locale=en)
+
+[Basic European Assets Map, Germany (2014-04-22)](https://www.europeandataportal.eu/data/datasets/882d04dd-a354-4f97-8e3f-9320797434a2?locale=en)
+
+
 
 ## Dynamic map
 
@@ -47,6 +52,8 @@ Human activities are infulenced by weather, environmental change.
 [European Monthly climatological temperature (MAPPE Model)](https://www.europeandataportal.eu/data/datasets/jrc-mappe-europe-setup-d-09-monthly-temperature?locale=en) 
 
 [PPDIST, global 0.1° daily and 3-hourly precipitation probability distribution climatologies for 1979–2018](http://www.gloh2o.org/ppdist/)
+
+[UI - Atmospheric emissions of CO2/ PM25/SO2 /NH3 (LUISA Platform REF2014)](https://www.europeandataportal.eu/data/datasets/jrc-luisa-co2-atmospheric-emissions-ref-2014?locale=en)
 
 ## Risk map
 
