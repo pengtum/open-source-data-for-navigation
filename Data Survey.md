@@ -8,6 +8,8 @@
 
 Road map, facility services.
 
+[Road network(OpenSteetMap)](https://www.openstreetmap.org/)
+
 [Road transport performance at 1 km² grid level](https://www.europeandataportal.eu/data/datasets/road-transport-performance-at-1-km-grid-level?locale=en)
 
 [Cross-border road transport infrastructure in the European Union](https://www.europeandataportal.eu/data/datasets/jrc-tem-br1?locale=en)
@@ -26,6 +28,10 @@ Traffic real-time information (e.g. Traffic light)
 ## Traval data
 
 [Country level - passengers embarked and disembarked in all ports](https://www.europeandataportal.eu/data/datasets/5dhgr1kcneqbymgqsstx1q?locale=en)
+
+[Road, rail and navigable inland waterways networks by NUTS 2 regions] (https://www.europeandataportal.eu/data/datasets/b2fx8tdo8ace905seggrdg?locale=en)
+
+[Annual road freight transport]()
 
 
 [Passenger railway vehicles, by type of vehicle](https://www.europeandataportal.eu/data/datasets/vwwua5hdbsr7vja18tp0rg?locale=en)
