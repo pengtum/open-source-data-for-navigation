@@ -45,7 +45,7 @@ Traffic real-time information (e.g. Traffic light)
 
 
 
-## Traval data
+## Transport data
 
 [Country level - passengers (excluding cruise passengers) transported to/from main ports](https://www.europeandataportal.eu/data/datasets/2ptr6nrumf9vituwpwjybw?locale=en)
 
@@ -77,6 +77,28 @@ Traffic real-time information (e.g. Traffic light)
 
 [Passengers transported to/from main ports]
 
+[New registrations of passenger cars by unloaded weight](https://www.europeandataportal.eu/data/datasets/8gfqb72voss4kpdpacxnra?locale=en)
+
+[New registrations of lorries, by type of motor energy](https://www.europeandataportal.eu/data/datasets/gyw1os0hs8qafvr79mcxa?locale=en)
+
+[New registrations of motor coaches, buses and trolley buses, by seat capacity/ type of motor energy/ seat capacity/trype of vehicles](https://www.europeandataportal.eu/data/datasets/rjatdvecixx0mvp6fuxniw?locale=en)
+
+[Air passenger transport by main airports in each reporting country](https://www.europeandataportal.eu/data/datasets/ez3kc1cjabsz83uw1uw?locale=en)
+
+[Air transport of passengers by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/udcvojyi5ht1oudpsgkoa?locale=en)
+
+
+[Motor coaches, buses and trolley buses, by age/ number of seats/ type of motor energy/ type of vehicle](https://www.europeandataportal.eu/data/datasets/zr0l294t2rxp6yt6cfr6rg?locale=en)
+
+[Modal split of passenger transport](https://www.europeandataportal.eu/data/datasets/2456242d-022b-40c7-9b2f-893aff3999ff?locale=en)
+>This indicator is defined as the percentage share of each mode of transport in total inland transport, expressed in passenger-kilometres (pkm). It is based on transport by passenger cars, buses and coaches, and trains. All data should be based on movements on national territory, regardless of the nationality of the vehicle. However, the data collection methodology is not harmonised at the EU level.
+
+
+[Air passenger transport between the main airports and their main partner airports (routes data)](https://www.europeandataportal.eu/data/datasets/avytjrz9ctqjwcfnlgghcw?locale=en)
+
+[LF441 - Potential accessibility (LUISA Platform REF2014)](https://www.europeandataportal.eu/data/datasets/jrc-luisa-lf441-potential-accessibility-ref-2014?locale=en)
+
+
 
 ## Environmental map
 
@@ -91,6 +113,8 @@ Human activities are infulenced by weather, environmental change.
 [PPDIST, global 0.1° daily and 3-hourly precipitation probability distribution climatologies for 1979–2018](http://www.gloh2o.org/ppdist/)
 
 [UI - Atmospheric emissions of CO2/ PM25/SO2 /NH3 (LUISA Platform REF2014)](https://www.europeandataportal.eu/data/datasets/jrc-luisa-co2-atmospheric-emissions-ref-2014?locale=en)
+
+[EDGARv4.2 Emission Maps](https://www.europeandataportal.eu/data/datasets/jrc-edgar-emissionmapsv42?locale=en)
 
 ## Risk map
 
