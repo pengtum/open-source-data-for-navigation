@@ -17,6 +17,7 @@ Datasource:
 
 Road map, facility services.
 
+### Europe
 [Road network (OpenSteetMap)](https://www.openstreetmap.org/)
 
 [Road transport performance at 1 km² grid level](https://www.europeandataportal.eu/data/datasets/road-transport-performance-at-1-km-grid-level?locale=en)
@@ -27,10 +28,14 @@ Road map, facility services.
 
 [Motorways network by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/zaennsgej2a50vd60j6ksw?locale=en)
 
-[Germany national building height map](https://ows.geo.hu-berlin.de/webviewer/building-height/)
+### Germany
+
+[Germany national building height map](https://ows.geo.hu-berlin.de/webviewer/building-height/) Germany
+
 
 ## Human grid data
 
+### Europe
 [GHS built-up grid, derived from Sentinel-1 (2016), R2018A](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-10008?locale=en)
 
 [GHS population grid, derived from EUROSTAT census data (2011) and ESM R2016](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-ghs_pop_eurostat_europe_r2016a?locale=en)
@@ -38,7 +43,10 @@ Road map, facility services.
 [Basic European Assets Map, Finland (2014-04-22)](https://www.europeandataportal.eu/data/datasets/b7914f88-caea-4240-8c6d-afe994ed3960?locale=en)
 
 
+[Land Cover data](https://ows.geo.hu-berlin.de/webviewer/european-land-cover/index.html)
 
+### Germany
+[Material Stocks](https://ows.geo.hu-berlin.de/webviewer/stocks/index.html) Germany and Austria
 
 ## Dynamic map
 
