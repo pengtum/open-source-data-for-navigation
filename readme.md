@@ -1,6 +1,6 @@
 # open-source-data-for-navigation
 
-**This project aims to make a conprehensive survey for open source data for navigation at Europe. Normally, there are two kinds of data that are essential for navigation.
+**This project aims to make a conprehensive survey for open source data for navigation at Europe. Normally, there are two kinds of data that are essential for navigation.**
 
 Normally, data which can be used for navigation include [base map](# road-related map)
 
