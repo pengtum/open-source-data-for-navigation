@@ -21,9 +21,7 @@ Road map, facility services.
 
 ## Human grid data
 
-building volume data
-
-population map data[GHS built-up grid, derived from Sentinel-1 (2016), R2018A](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-10008?locale=en)
+[GHS built-up grid, derived from Sentinel-1 (2016), R2018A](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-10008?locale=en)
 
 [GHS population grid, derived from EUROSTAT census data (2011) and ESM R2016](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-ghs_pop_eurostat_europe_r2016a?locale=en)
 
@@ -42,10 +40,7 @@ Traffic real-time information (e.g. Traffic light)
 
 [Country level - passengers (excluding cruise passengers) transported to/from main ports](https://www.europeandataportal.eu/data/datasets/2ptr6nrumf9vituwpwjybw?locale=en)
 
-[Country level - passengers (excluding cruise passengers) transported to/from main ports, by type of traffic](https://www.europeandataportal.eu/data/datasets/bvnhrbc1h3oi53rsxrsa?locale=en)
-
-[Country level - passengers embarked and disembarked in all ports, by direction]
-(https://www.europeandataportal.eu/data/datasets/kmnbxvrpnnyrrqz2youuq?locale=en)
+[Country level - passengers embarked and disembarked in all ports, by direction](https://www.europeandataportal.eu/data/datasets/kmnbxvrpnnyrrqz2youuq?locale=en)
 
 
 
