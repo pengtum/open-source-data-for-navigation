@@ -27,6 +27,7 @@ Road map, facility services.
 
 [Motorways network by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/zaennsgej2a50vd60j6ksw?locale=en)
 
+[Germany national building height map](https://ows.geo.hu-berlin.de/webviewer/building-height/)
 
 ## Human grid data
 
