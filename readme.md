@@ -12,10 +12,18 @@ Datasource:
 [EU OPen data portal](https://data.europa.eu/euodp/en/home)
 
 
+# Direct data
 
-## road-related map
+## Dynamic map
 
-Road map, facility services.
+Traffic real-time information (e.g. Traffic light)
+
+Non-open source
+
+
+## Base map
+
+Mainly include road network and facility services.
 
 ### Europe
 [Road network (OpenSteetMap)](https://www.openstreetmap.org/)
@@ -24,18 +32,9 @@ Road map, facility services.
 
 [Cross-border road transport infrastructure in the European Union](https://www.europeandataportal.eu/data/datasets/jrc-tem-br1?locale=en)
 
-[Basic European Assets Map, Germany (2014-04-22)](https://www.europeandataportal.eu/data/datasets/882d04dd-a354-4f97-8e3f-9320797434a2?locale=en)
 
 [Motorways network by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/zaennsgej2a50vd60j6ksw?locale=en)
 
-### Germany
-
-[Germany national building height map](https://ows.geo.hu-berlin.de/webviewer/building-height/) Germany
-
-
-## Human grid data
-
-### Europe
 [GHS built-up grid, derived from Sentinel-1 (2016), R2018A](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-10008?locale=en)
 
 [GHS population grid, derived from EUROSTAT census data (2011) and ESM R2016](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-ghs_pop_eurostat_europe_r2016a?locale=en)
@@ -46,12 +45,17 @@ Road map, facility services.
 [Land Cover data](https://ows.geo.hu-berlin.de/webviewer/european-land-cover/index.html)
 
 ### Germany
+
+[Germany national building height map](https://ows.geo.hu-berlin.de/webviewer/building-height/) Germany
+
+[Basic European Assets Map, Germany (2014-04-22)](https://www.europeandataportal.eu/data/datasets/882d04dd-a354-4f97-8e3f-9320797434a2?locale=en) Germany
+
 [Material Stocks](https://ows.geo.hu-berlin.de/webviewer/stocks/index.html) Germany and Austria
 
-## Dynamic map
 
-Traffic real-time information (e.g. Traffic light)
 
+
+# Inderict data
 
 
 ## Transport data
