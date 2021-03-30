@@ -137,14 +137,6 @@ Human activities are infulenced by weather, environmental change.
 
 [Urban population exposure to air pollution by particulate matter](https://www.europeandataportal.eu/data/datasets/09r1xrdtrde1dom5fj9glg?locale=en)
 
-[Forest Fire](https://www.europeandataportal.eu/data/datasets/b91584ec-c979-4aef-9289-a4e8d5cb9606?locale=en)
-
-[Flood](https://www.europeandataportal.eu/data/datasets/5669e42c-dd89-4432-b41a-a3d78074094a?locale=en)
-
-[Hurricane](https://www.europeandataportal.eu/data/datasets/8c0b8cd1-86d2-44bc-9731-d0ac9be755e8?locale=en)
-
-[Bulgaria: Post-disaster analysis, damage assessment, recovery and rehabilitation planning and monitoring, flood risk assessment, disaster preparedness and response mechanisms (2016-05-04)](https://www.europeandataportal.eu/data/datasets/666cecda-1b16-41a7-b7d1-81be50c4a8f7?locale=en)
-
 
 ## Accident
 [Death due to accidents by NUTS 2 regions](https://www.europeandataportal.eu/data/datasets/iwy1tuf7qryz1ieplhmmq?locale=en)
