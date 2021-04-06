@@ -42,14 +42,32 @@ Mainly include road network and facility services.
 
 [GHS population grid, derived from EUROSTAT census data (2011) and ESM R2016](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-ghs_pop_eurostat_europe_r2016a?locale=en)
 
+[WorldPop](https://www.worldpop.org/project/categories?id=18)
 [Basic European Assets Map, Finland (2014-04-22)](https://www.europeandataportal.eu/data/datasets/b7914f88-caea-4240-8c6d-afe994ed3960?locale=en)
 
 
 [Land Cover data](https://ows.geo.hu-berlin.de/webviewer/european-land-cover/index.html)
 
+[Urban Atlas 2018](https://land.copernicus.eu/local/urban-atlas/urban-atlas-2018)
+
+[Urban Atlas Change 2012-2018](https://land.copernicus.eu/local/urban-atlas/urban-atlas-change-2012-2018)
+
+
+[Impervious Built-up 2018](https://land.copernicus.eu/pan-european/high-resolution-layers/imperviousness/status-maps/impervious-built-up-2018)
+
+[Imperviousness Density 2018](https://land.copernicus.eu/pan-european/high-resolution-layers/imperviousness/status-maps/imperviousness-density-2018)
+
+[GHS built-up grid](https://ghsl.jrc.ec.europa.eu/ghs_bu_s2_2018.php)
+
+[GHS Urban Centre Database 2015](https://ghsl.jrc.ec.europa.eu/ghs_stat_ucdb2015mt_r2019a.php)
+
+[GHS functional urban areas](https://ghsl.jrc.ec.europa.eu/ghs_fua.php)
+
 ### Germany
 
 [Germany national building height map](https://ows.geo.hu-berlin.de/webviewer/building-height/) Germany
+
+[Building height map at cpatials](https://land.copernicus.eu/local/urban-atlas/building-height-2012) Captials
 
 [Basic European Assets Map, Germany (2014-04-22)](https://www.europeandataportal.eu/data/datasets/882d04dd-a354-4f97-8e3f-9320797434a2?locale=en) Germany
 
@@ -131,6 +149,8 @@ Human activities are infulenced by weather, environmental change.
 [UI - Atmospheric emissions of CO2/ PM25/SO2 /NH3 (LUISA Platform REF2014)](https://www.europeandataportal.eu/data/datasets/jrc-luisa-co2-atmospheric-emissions-ref-2014?locale=en)
 
 [EDGARv4.2 Emission Maps](https://www.europeandataportal.eu/data/datasets/jrc-edgar-emissionmapsv42?locale=en)
+
+[Street Tree Layer (STL) 2018](https://land.copernicus.eu/local/urban-atlas/street-tree-layer-stl-2018?tab=mapview)
 
 ## Risk map
 
