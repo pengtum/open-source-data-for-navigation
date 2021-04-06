@@ -40,9 +40,14 @@ Mainly include road network and facility services.
 
 [GHS built-up grid, derived from Sentinel-1 (2016), R2018A](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-10008?locale=en)
 
+[European Settlement Map](https://land.copernicus.eu/pan-european/GHSL/european-settlement-map/esm-2015-release-2019)
+
 [GHS population grid, derived from EUROSTAT census data (2011) and ESM R2016](https://www.europeandataportal.eu/data/datasets/jrc-ghsl-ghs_pop_eurostat_europe_r2016a?locale=en)
 
 [WorldPop](https://www.worldpop.org/project/categories?id=18)
+
+[Urban Atlas pop 2012](https://land.copernicus.eu/local/urban-atlas/urban-atlas-2012?tab=mapview)
+
 [Basic European Assets Map, Finland (2014-04-22)](https://www.europeandataportal.eu/data/datasets/b7914f88-caea-4240-8c6d-afe994ed3960?locale=en)
 
 
@@ -62,6 +67,8 @@ Mainly include road network and facility services.
 [GHS Urban Centre Database 2015](https://ghsl.jrc.ec.europa.eu/ghs_stat_ucdb2015mt_r2019a.php)
 
 [GHS functional urban areas](https://ghsl.jrc.ec.europa.eu/ghs_fua.php)
+
+
 
 ### Germany
 
